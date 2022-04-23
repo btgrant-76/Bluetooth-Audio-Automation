@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA">
+    <option name="configuration">
+      <map>
+        <entry key="active-configuration" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="checkstyle-version" value="8.4" />
+        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="scan-before-checkin" value="false" />
+        <entry key="scanscope" value="JavaOnlyWithTests" />
+        <entry key="suppress-errors" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ClojureProjectResolveSettings">
+    <currentScheme>IDE</currentScheme>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/jacoco4sbt-master" value="1466927642000" />
+        <entry key="$PROJECT_DIR$/../../Functional Programming in Scala" value="1432164642000" />
+        <entry key="$PROJECT_DIR$/../../Java 8 in Action" value="1432178543000" />
+        <entry key="$PROJECT_DIR$/../../Java 8 in Action/java-8-in-action" value="1431922723000" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/Java/Play WS Integration" value="1482444338000" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/Java/caching" value="1487292412000" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/Java/caching_spot_check" value="1489013778000" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/Java/mob-libs/mob-utils" value="1480947277000" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/Java/web-service-client" value="1495652062000" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/Java/web-service-client-redux" value="1486768940000" />
+        <entry key="$PROJECT_DIR$/../../chortle" value="1428068109000" />
+        <entry key="$PROJECT_DIR$/../../encoding-test" value="1495647678000" />
+        <entry key="$PROJECT_DIR$/../../j7j7" value="1431945236000" />
+        <entry key="$PROJECT_DIR$/../../j7j8" value="1431945300000" />
+        <entry key="$PROJECT_DIR$/../../j8" value="1431944226000" />
+        <entry key="$PROJECT_DIR$/../../j8j7" value="1431945170000" />
+        <entry key="$PROJECT_DIR$/../../mobile_service_2" value="1429549403000" />
+        <entry key="$PROJECT_DIR$/../../morningstar-mdp-programming-challenge-2014" value="1415226996000" />
+        <entry key="$PROJECT_DIR$/../../play2-war-plugin/project-code" value="1429459954000" />
+        <entry key="$PROJECT_DIR$/../../project_euler" value="1446142618000" />
+        <entry key="$PROJECT_DIR$/../../reactive-webservice-integration" value="1454509583000" />
+        <entry key="$PROJECT_DIR$/../../webservice-integration" value="1433124669000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Morningstar/II/account-linking/account-linking" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/II/account-linking/baa-fusion" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/II/logging" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/Java/web-service-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/Mobile/investor-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Morningstar/sal-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../evenup/evenup_web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../otus-jvm-microservices-take-home/akka-http-microservice-templates/simple-http-server-json-mongodb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../otus-jvm-microservices-take-home/akka-http-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../otus-jvm-microservices-take-home/akka-http-rest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../otus-jvm-microservices-take-home/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../otus-jvm-microservices-take-home/brian-grant-jvm-microservices-take-home" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../problem-of-the-day" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../string-calculator-kata" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
